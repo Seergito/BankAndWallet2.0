@@ -1,0 +1,3 @@
+NSContactsUsageDescription = "Porfavor, permite el acceso al chip NFC";
+ = "Porfavor, permite el acceso al chip NFC";
+NFC = "Porfavor,permite el acceso al chip NFC";
